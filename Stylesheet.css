@@ -1,0 +1,48 @@
+head
+{<meta name="viewport" content="width=device-width, initial-scale=1.0">}
+
+h1 {
+  text-align: center;
+  font-size: 3em;
+  color: #009;
+  margin-bottom: .3em;
+  text-decoration: underline;
+}
+h2 {
+  text-align: center;
+  font-size: 3em;
+  color: #009;
+  margin-bottom: .3em;
+  text-decoration: none;
+}
+.myemoji {
+  background-image: url(C:\Users\dhale\Desktop\CS50\Project 0\project0\project0/welcome index.png);
+  background-color: lightblue;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
+.img-container {
+    text-align: center;
+  }
+
+table {
+  width:100%;}
+
+ th, td {
+   padding: 10px;
+   border: 1px solid black;
+   border-collapse: collapse;
+   }
+
+#trHeader {
+  text-decoration: overline;
+  color: #900;
+}
+
+.centerCell {
+  text-align: center;
+}
+$color: Red;
+ol{font-size: 18px;
+    color: $color;}
